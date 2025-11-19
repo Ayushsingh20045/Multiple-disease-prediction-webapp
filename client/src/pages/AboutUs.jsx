@@ -53,7 +53,7 @@ const About = () => {
                     </div>
                     <div className="px-4 pb-6 text-center">
                         <p className="mt-4 text-lg">Purva Pardhi</p>
-                        <p className="text-sm font-medium bg-gradient-to-r from-[#8B5CF6] via-[#9938CA] to-[#E0724A] text-transparent bg-clip-text">Research Coordinator</p>
+                        <p className="text-sm font-medium bg-gradient-to-r from-[#8B5CF6] via-[#9938CA] to-[#E0724A] text-transparent bg-clip-text">ML & Research Coordinator</p>
                         <div className='flex items-center justify-center gap-5 mt-3'>
 
                         <a href="mailto:purvapardhi288@gmail.com"> <Mail className='size-5 text-red-400'/></a>
@@ -89,7 +89,7 @@ const About = () => {
                     </div>
                     <div className="px-4 pb-6 text-center ">
                         <p className="mt-4 text-lg">Shruti Nemade</p>
-                        <p className="text-sm font-medium bg-gradient-to-r from-[#8B5CF6] via-[#9938CA] to-[#E0724A] text-transparent bg-clip-text">ML Developer & Data Analyst</p>
+                        <p className="text-sm font-medium bg-gradient-to-r from-[#8B5CF6] via-[#9938CA] to-[#E0724A] text-transparent bg-clip-text">ML Developer & Accuracy Tester</p>
                          <div className='flex items-center justify-center gap-5 mt-3'>
 
                         <a href="mailto:shrutinemade98@gmail.com"> <Mail className='size-5 text-red-400'/></a>

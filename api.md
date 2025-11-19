@@ -44,3 +44,4 @@ along with their HTTP methods and short descriptions.
 - All `/api/predict/*` routes internally call your **Flask ML model endpoints**.  
 - `/api/users/*` routes communicate with the **MongoDB database**.  
 - You can test these routes using **Postman** before connecting the frontend.
+

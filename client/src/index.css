@@ -5,3 +5,15 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
+
+
+/* Remove arrows in Chrome, Edge, Safari */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input {
+  @apply px-4 py-2 text-lg bg-white w-full lg:w-2/4 border border-gray-300 rounded-lg outline-none hover:ring transition-all duration-200 hover:ring-blue-500;
+}
